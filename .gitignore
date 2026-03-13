@@ -1,12 +1,31 @@
+# Dataset — too large for GitHub
+dataset/
+
+# Model checkpoints — too large for GitHub
+checkpoints/
+
+# Training logs — generated at runtime
+training_log.csv
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
+
+# Virtual environment
+metadrive_env/
 venv/
-.env/
-data/
-*.pth
-*.pt
-.ipynb_checkpoints
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Video outputs
+*.avi
+*.mp4
