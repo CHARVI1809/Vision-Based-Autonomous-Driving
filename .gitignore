@@ -5,7 +5,7 @@ dataset/
 checkpoints/
 
 # Training logs — generated at runtime
-training_log.csv
+#training_log.csv
 
 # Python cache
 __pycache__/
