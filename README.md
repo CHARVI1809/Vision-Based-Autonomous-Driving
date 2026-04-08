@@ -1,4 +1,4 @@
-# Vision-Based Autonomous Driving with Behavioral Cloning
+# Vision-Based Autonomous Driving 
 
 An end-to-end autonomous driving project built with [MetaDrive 0.4.3](https://github.com/metadriverse/metadrive) and PyTorch. A CNN learns to drive by imitating an IDM autopilot — no hand-coded rules, no lidar, just a front camera.
 
